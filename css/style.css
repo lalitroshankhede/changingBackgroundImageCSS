@@ -43,18 +43,18 @@ body{
 {
     0%,100%
       {
-       background-image: url(images/1AVdUEg.jpg); 
+       background-image: url("images/1AVdUEg.jpg"); 
       }
     25%
       {
-       background-image: url(images/1e9b9015a2e859df3c89e52b9609d5a3.jpg); 
+       background-image: url("images/1e9b9015a2e859df3c89e52b9609d5a3.jpg"); 
       }
     50%
       {
-       background-image: url(images/2_horses.jpg); 
+       background-image: url("images/2_horses.jpg"); 
       }
       75%
       {
-       background-image: url(images/1KJ6vX.jpg);
+       background-image: url("images/1KJ6vX.jpg");
       }
   } 
